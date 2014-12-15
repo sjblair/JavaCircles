@@ -7,7 +7,7 @@ Inspired by Daniel Bernier's generative art which he dubbed [Circle Pictures](ht
 
 **Some notes about the code...**
 
-To use this code you will need to have Processing on your Mac/PC. You will then need to add the core.jar file as a global library to your IDE of choice. At a later date I'll write how to do this in IntelliJ IDEA. If you already know how to do that and you have Processing already, then you can find core.jar here: `/Applications/Processing.app/Contents/Java/core/library/core.jar`. Happy generative picture making!
+To use this code you will need to have Processing on your Mac/PC. You will then need to add the core.jar file as a global library to your IDE of choice. At a later date I'll write how to do this in IntelliJ IDEA. If you already know how to do that and you have Processing already, then you can find core.jar here: `/Applications/Processing.app/Contents/Java/core/library/core.jar`. Also... This code is just for fun and is absolutely not ready for any real deployment! It's greedy with the memory! Happy generative picture making!
 
 ***
 
