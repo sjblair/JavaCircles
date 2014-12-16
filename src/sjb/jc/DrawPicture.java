@@ -13,7 +13,7 @@ public class DrawPicture {
         processing.core.PApplet sketch = new Circles();
         sketch.init();
         while (!sketch.finished) {
-
+            //Wait for drawing to finish.
         }
         sketch.exit();
     }
