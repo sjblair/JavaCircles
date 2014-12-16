@@ -10,6 +10,7 @@ Inspired by Daniel Bernier's generative art which he dubbed [Circle Pictures](ht
 To use this code you will need to have Processing on your Mac/PC. You will then need to add the core.jar file as a global library to your IDE of choice. ~~At a later date I'll write how to do this in IntelliJ IDEA.~~ Later date is now! If you already know how to do this and you have Processing already, then you can find core.jar here on Mac: `/Applications/Processing.app/Contents/Java/core/library/core.jar`. For Windows folk it'll be here-ish... `C:\Program Files\processing-2.2.1\core\library\core.jar`.
 
 For those who don't know how to do the above, just follow these steps:
+
 1. Download and install Processing (link above).
 2. Create a normal Java project in IntelliJ.
 3. After that, go to file -> Project Structure (Ctrl+Alt+Shift+S on Windows).
