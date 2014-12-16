@@ -23,6 +23,8 @@ Also... This code is just for fun and is absolutely not ready for any real deplo
 
 ***
 
-Here's an example of a picture I ran through the code...
+Here's an example output of a picture I ran through the code...
 
 ![alt text](https://raw.githubusercontent.com/sjblair/JavaCircles/master/src/examples/Screen%20Shot%202014-12-15%20at%2021.06.38.png?token=AEO3HOI4kqCXIFEradrGrAdxSBLaPE3_ks5UmIpcwA%3D%3D "Example output!")
+
+P.S. It's a pug by the way... :)
